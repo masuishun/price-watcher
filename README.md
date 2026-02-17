@@ -1,1 +1,1 @@
-# aliexpress-price-watcher
+# price-watcher
